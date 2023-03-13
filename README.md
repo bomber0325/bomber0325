@@ -19,11 +19,7 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=hibernate" alt="icon" width="65" height="65" />
       <br>Hibernate
-    </td>    
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=restapi" alt="icon" width="65" height="65" />
-      <br>Rest
-    </td>
+    </td>        
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
       <br>Javascript
@@ -49,11 +45,7 @@
       <br>MongoDB
     </td>        
   </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td> 
+  <tr>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
       <br>Firebase
