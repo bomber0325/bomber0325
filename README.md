@@ -94,7 +94,7 @@
 <details> 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/ericdev0212"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a>
-  <a href="https://github.com/ericdev0212"><img alt="eric's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
+    <a href="https://github.com/ericdev0212"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ericdev0212&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a>
+  <a href="https://github.com/ericdev0212"><img alt="eric's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericdev0212&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
   <br/>
 </details>
