@@ -106,12 +106,6 @@ I was actively involved in back-end development, front-end development, solution
     </td>    
   </tr>
 </table>
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ericdev0212&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericdev0212&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  </a>
-</div> 
+
+![](https://github-readme-stats.vercel.app/api?username=ericdev0212&hide=contribs&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&hide_title=true&bg_color=45,17b2e3,1363b6&text_color=ffffff&icon_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericdev0212&layout=compact&theme=gruvbox&hide_border=truehide_title=true&bg_color=45,17b2e3,1363b6&text_color=ffffff&icon_color=ffffff&title_color=ffffff&font_size=20)
