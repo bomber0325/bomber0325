@@ -107,5 +107,4 @@ I was actively involved in back-end development, front-end development, solution
   </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api?username=bomber0325&hide=contribs&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&hide_title=true&bg_color=45,17b2e3,1363b6&text_color=ffffff&icon_color=ffffff)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bomber0325&layout=compact&theme=gruvbox&hide_border=truehide_title=true&bg_color=45,17b2e3,1363b6&text_color=ffffff&icon_color=ffffff&title_color=ffffff&font_size=20)
