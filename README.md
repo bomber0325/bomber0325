@@ -35,8 +35,8 @@ I was actively involved in back-end development, front-end development, solution
       <br>Kotlin
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=hibernate" alt="icon" width="40" height="40" />
-      <br>Hibernate
+        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
+      <br>Go
     </td>        
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="40" height="40" />
@@ -55,8 +55,8 @@ I was actively involved in back-end development, front-end development, solution
       <br>Node
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="40" height="40" />
-      <br>Postgres
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="40" height="40" />
+      <br>Next
     </td>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
@@ -69,8 +69,8 @@ I was actively involved in back-end development, front-end development, solution
       <br>Firebase
     </td> 
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dynamodb" alt="icon" width="40" height="40" />
-      <br>Dynamodb
+        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="40" height="40" />
+      <br>postgreSQL
     </td>  
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="40" height="40" />
