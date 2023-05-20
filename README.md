@@ -47,7 +47,7 @@ I was actively involved in back-end development, front-end development, solution
       <br>Vue
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=Laravel" alt="icon" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="40" height="40" />
       <br>Laravel
     </td>        
       <td align="center" width="96">
