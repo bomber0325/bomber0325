@@ -65,7 +65,7 @@ I was actively involved in back-end development, front-end development, solution
   </tr>
   <tr>    
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="40" height="40" />
       <br>Firebase
     </td> 
     <td align="center" width="96">
