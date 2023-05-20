@@ -23,22 +23,6 @@ I was actively involved in back-end development, front-end development, solution
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="40" height="40" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="40" height="40" />
-      <br>Spring
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="40" height="40" />
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
-      <br>Go
-    </td>        
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="40" height="40" />
       <br>Javascript
     </td>
@@ -59,13 +43,29 @@ I was actively involved in back-end development, front-end development, solution
       <br>Next
     </td>    
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="40" height="40" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=Laravel" alt="icon" width="40" height="40" />
+      <br>Laravel
+    </td>        
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="40" height="40" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="40" height="40" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
       <br>MongoDB
     </td>        
   </tr>
   <tr>    
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="40" height="40" />
       <br>Firebase
     </td> 
     <td align="center" width="96">
