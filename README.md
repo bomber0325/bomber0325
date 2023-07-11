@@ -2,11 +2,11 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&vcenter=true&width=520&lines=Full+Stack+Developer;Senior+React+and+Vue+Developer;Be+Welcome!" alt="Typing SVG" /></a>
+<h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&vcenter=true&width=520&lines=Full+Stack+Developer;Senior+React+and+Vue+Developer;Java+Backend+Developer;Be+Welcome!" alt="Typing SVG" /></a>
 </h1>
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-<p>
 
 <p>
 I am a passionate full stack web developer and have been involved in commercial software development using a variety of skills for the past 7 years.
