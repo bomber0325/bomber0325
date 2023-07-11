@@ -26,10 +26,14 @@ I was actively involved in back-end development, front-end development, solution
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="40" height="40" />
       <br>Javascript
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="40" height="40" />
+      <br>Vue
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="40" height="40" />
       <br>Typescript
-    </td>
+    </td>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="icon" width="40" height="40" />
       <br>React
@@ -41,11 +45,7 @@ I was actively involved in back-end development, front-end development, solution
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="40" height="40" />
       <br>Next
-    </td>    
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="40" height="40" />
-      <br>Vue
-    </td>
+    </td>   
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="40" height="40" />
       <br>Laravel
